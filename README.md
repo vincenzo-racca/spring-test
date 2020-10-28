@@ -6,7 +6,8 @@ Tests.
 For the Unit Tests this project use jUnit 5, Mockito.\
 For the Integration Tests it uses Spring Boot Test, JUnit 5 and H2 in-memory database.
 
-My post about Unit Tests: https://www.vincenzoracca.com/blog/framework/spring/unit-test/
+My post about Unit Tests (English language): https://www.vincenzoracca.com/en/blog/framework/spring/unit-test/
+My post about Unit Tests (Italian language): https://www.vincenzoracca.com/blog/framework/spring/unit-test/
 
 My post about Integration Tests: https://www.vincenzoracca.com/blog/framework/spring/integration-test/
 
