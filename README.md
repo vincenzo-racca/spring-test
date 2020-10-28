@@ -9,7 +9,9 @@ For the Integration Tests it uses Spring Boot Test, JUnit 5 and H2 in-memory dat
 My post about Unit Tests (English language): https://www.vincenzoracca.com/en/blog/framework/spring/unit-test/
 My post about Unit Tests (Italian language): https://www.vincenzoracca.com/blog/framework/spring/unit-test/
 
-My post about Integration Tests: https://www.vincenzoracca.com/blog/framework/spring/integration-test/
+My post about Integration Tests (English language): https://www.vincenzoracca.com/en/blog/framework/spring/integration-test/
+
+My post about Integration Tests (Italian language): https://www.vincenzoracca.com/blog/framework/spring/integration-test/
 
 This Project use MySQL database when run the application (indeed for the tests it uses H2 database).
 
